@@ -6,9 +6,7 @@ Contient une présentation personnel ainsi que celle de Simplon
 #Mickael GRAMINO
 -----------------
 ####Faire une liste à puces
-
-####Faire une liste à puces
-
-####Faire une liste à puces
-
+* item
+* item
+* item
 
