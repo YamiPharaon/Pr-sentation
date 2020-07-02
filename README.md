@@ -5,7 +5,9 @@ Contient une présentation personnel ainsi que celle de Simplon
 
 #Mickael GRAMINO
 -----------------
-####Informations personnelles
+
+### Informations personnelles
+
 * Age : L'age de glace
 * Adresse : Celle du Père Noël
 * Nationalitée : Française
