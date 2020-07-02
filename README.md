@@ -6,7 +6,6 @@ Contient une présentation personnel ainsi que celle de Simplon
 | ![Simplon.co](https://zupimages.net/up/20/27/imaw.jpg) | Bonjour, mon signe astrologique,c'est Taureau, j'adore faire du scrapping et du code, Je suis de ceux qui disent pain au chocolat et qui mouillent la brosse à dent avant de mettre le dentifrice, J'aime, faire du sport et quand je dors, je bave.  |
 
 # Mickael GRAMINO
------------------
 
 ### Informations personnelles
 
@@ -14,7 +13,9 @@ Contient une présentation personnel ainsi que celle de Simplon
 * Adresse : Celle du Père Noël
 * Nationalitée : Française
 * Profession : Formateur
+
 ----------------------------------
+
 # Présentation de la formation
 Contient une présentation personnel ainsi que celle de Simplon
 
